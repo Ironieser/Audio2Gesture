@@ -1,6 +1,9 @@
 ## Rhythmic Gesticulator: A Reproduced Version
 
 This is a reproduced PyTorch/GPU implementation of the paper [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://pku-mocca.github.io/Rhythmic-Gesticulator-Page/) by *[Ironieser](https://github.com/Ironeiser)*.  
+
+If you find this Repo helpful, please consider star🌟 it!
+
 ### 🚩Feature 
 - &#x2705;  Add VQ-VAE for gesture lexicon.  
 - &#x2705;  Improve data preprocess
