@@ -2,7 +2,7 @@
 
 This is a reproduced PyTorch/GPU implementation of the paper [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://pku-mocca.github.io/Rhythmic-Gesticulator-Page/) by *[Ironieser](https://github.com/Ironeiser)*.  
 
-If you find this Repo helpful, please consider star🌟 it!
+If you find this Repo helpful, please consider starring🌟 it!
 
 ### 🚩Feature 
 - &#x2705;  Add VQ-VAE for gesture lexicon.  
